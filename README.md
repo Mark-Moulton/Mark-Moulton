@@ -55,31 +55,31 @@ I am incredibly proud of this project. In a one month window, I taught myself ho
 # NSCC Capstone Project
   ![capstonekaiju](https://user-images.githubusercontent.com/8378246/169935091-61c0dfd5-6d0d-4b97-84e2-f849b967b117.gif)
 
-## Scenario: 
+### Scenario: 
 I took on the roles of Lead Game Designer and Lead Unity Developer in a project with 4 other students to create a virtual pet game.
-## Goals:
+### Goals:
 -	Learn how the workflow changes when working with a team
 -	Learn Jira management software
 -	Learn BitBucket
 -	Learn Kanban
 -	Learn how to connect a SQL database to Unity, using a website as an intermediary
 -	Effectively work with a team to get a good grade and more importantly make something cool
-## What I did:
+### What I did:
 -	Contributed to preproduction SAAD documents
 -	Wrote small game design document detailing stats and interactions. Collaborated with UI/UX Lead to detail how stats should be displayed. Detailed website and database requirements
 -	Provided support for other teammates by providing Unity documentation and resources
 -	Recorded a live demonstration of Unity for teammates, answering questions and walking through the process of adding part of the functionality from scratch
 -	Coded the bulk of the pet care gameplay functionality 
 
-## The Good:
+### The Good:
 The project was a very enjoyable experience, and we went out of our way to learn new tools like bitbucket instead of sticking to github which we were already familiar and comfortable with. 
 I didn’t expect to take as much of a leadership role as I did. The virtual pet idea was mine and with my prior experience with Unity from personal projects the team started relying on me for guidance early on. Whenever there was a question of how something was supposed to work, they looked to me to have the answers. It was stressful at times but not altogether unpleasant, and in fact it’s a responsibility I would like to take on more of in the future. 
 The initial design of the project was way too big, but we realized this quickly and cut some features to be a more reasonable size before we began work.
-## The Bad:
+### The Bad:
 The reasonable size we cut down to was still too large to get done with our other course load and real jobs. We got close but would ultimately need some more dedicated time. Estimating project timelines is difficult, but I’ll only get better.
-## The Ugly:
+### The Ugly:
 The least enjoyable part of the project was, as is often the case, a certain team member was unreliable and uncommunicative. Skipping meetings, not responding to questions, not contributing and always having an excuse. It was a drain on team morale and just really annoying in general. We made the most of it though, another teammate suggested we take it as a chance to practice dealing with difficult teammates, which was a great point, and I tried to follow suit. Difficult coworkers are a way of life, so it was a good experience.  
-## What I want you to takeaway:
+### What I want you to takeaway:
 This project demonstrated the leadership qualities that honestly, I didn’t even realize I had developed myself.
 This revelation is a great reason why self reflection is so important. Your mental model of who you are can only be accurate through constant introspection updates. If you don’t know who you are you don’t know what you can do.
 
