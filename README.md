@@ -17,7 +17,7 @@ My career goal is to be a Game Developer.
  
 # Work Examples, Reflection, & Skills Summary
 # Mega X Man Rogue
-<sub>[Repository](https://github.com/NPCsoft/MegaXManRogue) and [itch.io page](https://randomnpc.itch.io/mxmr)</sub>
+<sub>[Repository](https://github.com/NPCsoft/MegaXManRogue) and [itch.io page](https://mmoulton.itch.io/mxmr)</sub>
 
  ![mxmr](https://user-images.githubusercontent.com/8378246/169934740-2359c81a-5ad1-4102-aa1b-1d69206ecf82.gif)
 <sub> Note: Visual and Audio assets were taken from existing CAPCOM games and not representative of my artistic ability. </sub>
