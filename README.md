@@ -3,7 +3,7 @@
 ## Introduction 
 
 ### Where am I now?
-- 2nd year Student in IT Programming at Nova Scotia Community College graduating in June 2022.
+- 2nd year Student in IT Programming at Nova Scotia Community College graduating in 2022 with a 90% average.
 -	Working on personal projects outside of school hours.
 ### Where am I going?
 My career goal is to be a Game Developer.
