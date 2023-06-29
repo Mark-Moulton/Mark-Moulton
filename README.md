@@ -3,7 +3,7 @@
 ## Introduction 
 
 ### Where am I now?
-- 2nd year Student in IT Programming at Nova Scotia Community College graduating in 2022 with a 90% average.
+- 2nd year Student in IT Programming at Nova Scotia Community College graduating in 2023 with a 90% average.
 -	Working on personal projects outside of school hours.
 ### Where am I going?
 My career goal is to be a Game Developer.
@@ -86,7 +86,7 @@ The initial design of the project was way too big, but we realized this before w
 ### The Bad:
 The reasonable size we cut down to was still too large to get done with our other course load and real jobs. We got close but would ultimately need some more dedicated time. Estimating project timelines is difficult, it's a skill I look forward to improving.
 ### The Ugly:
-The least enjoyable part of the project was, as is often the case, a certain team member was unreliable and uncommunicative. Skipping meetings, not responding to questions, not contributing and always having an excuse. It was a drain on team morale and just really annoying in general. We made the most of it though, another teammate suggested we take it as a chance to practice dealing with difficult teammates, which was a great point, and I tried to follow suit. Difficult coworkers are a way of life, so it was a good experience.  
+One particular challenge we faced was an unreliable and uncommunicative team member. Their lack of engagement, missed meetings, and failure to contribute affected team morale. However, we used this situation as an opportunity to practice dealing with difficult coworkers, which proved valuable in the end. Such experiences are part of the professional landscape, and I embraced it as a chance to grow.
 ### What I want you to takeaway:
 This project demonstrated the leadership qualities that honestly, I didn’t even realize I had developed myself.
 This revelation is a great reason why self reflection is so important. Your mental model of who you are can only be accurate through constant introspection updates. If you don’t know who you are you don’t know what you can do.
