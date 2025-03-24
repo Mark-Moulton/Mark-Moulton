@@ -1,10 +1,17 @@
 # Mark Moulton Portfolio
 
+## Quick Links
+- [Introduction](#introduction)
+- [Game Projects](#game-projects)
+- [Other IT Work](#other-it-work)
+- [Contact](#contact)
+
 ## Introduction 
 
 ### Where am I now?
-- 2nd year Student in IT Programming at Nova Scotia Community College graduating in 2023 with a 90% average.
--	Working on personal projects outside of school hours.
+- Service Operations Analyst with OnX Canada
+- Graduate of the IT Programming program at Nova Scotia Community College with a 90% average.
+-	Working on personal projects outside of work hours.
 ### Where am I going?
 My career goal is to be a Game Developer.
 #### Key Skill Areas
@@ -16,6 +23,7 @@ My career goal is to be a Game Developer.
   -	Knowledge of Game Engines and Programming Languages
  
 # Work Examples, Reflection, & Skills Summary
+## Game Projects
 # Mega X Man Rogue
 <sub>[Repository](https://github.com/NPCsoft/MegaXManRogue) and [itch.io page](https://mmoulton.itch.io/mxmr)</sub>
 
@@ -54,7 +62,6 @@ While the project was a success, the code was an absolute nightmare of spaghetti
 This is the perfect demonstration of the attitude I have towards learning new skills.
 I am incredibly proud of this project. In a one month window, I taught myself how to use Unity and enough code to make something that was not only playable, but actually fun! There was obviously a lot of stumbling, but I learned so much from my mistakes, it was probably the best thing I’ve ever done, still, to this day.
 
-
 # NSCC Capstone Project
 <sub>[Repository](https://github.com/NPCsoft/KaijuCapstone)</sub>
 
@@ -91,7 +98,17 @@ One particular challenge we faced was an unreliable and uncommunicative team mem
 This project demonstrated the leadership qualities that honestly, I didn’t even realize I had developed myself.
 This revelation is a great reason why self reflection is so important. Your mental model of who you are can only be accurate through constant introspection updates. If you don’t know who you are you don’t know what you can do.
 
-# Contact
+## Other IT Work
+# Service Operations Analyst with OnX Canada
+
+### Description:
+I coordinate with multiple teams and clients to resolve any IT issues that come up from password resets to network outages.
+
+### My biggest contributions:
+- In the first week that I joined the team I compiled the 8+ documents used for on call scheduling into a single automatically updating excel sheet. Originally we had to cross reference the on call schedule for each client and team combination, and then further search for that on call team members phone number in the contact information document. Now we just look at the universal on call sheet, look for Team A of Client B for example, and the primary and secondary on call working at the time are displayed with their contact informtion. Not only does this save us a lot of time but it dramatically lowers the instances of calling the wrong resource.
+- Developed a contact center solution using Amazon Connect. When I joined the team had just started planning to take over the phone help line, so I jumped at the opportunity to work on it. We now offer both phone and chat support and are constantly meeting our SLA requirements in part due to the efficiency of this system.
+
+## Contact
 - Mark-moulton@live.ca
 - 9024410037
 - https://www.linkedin.com/in/mark-moulton
