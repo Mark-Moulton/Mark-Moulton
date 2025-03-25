@@ -105,8 +105,11 @@ This revelation is a great reason why self reflection is so important. Your ment
 I coordinate with multiple teams and clients to resolve any IT issues that come up from password resets to network outages.
 
 ### My biggest contributions:
-- In the first week that I joined the team I compiled the 8+ documents used for on call scheduling into a single automatically updating excel sheet. Originally we had to cross reference the on call schedule for each client and team combination, and then further search for that on call team members phone number in the contact information document. Now we just look at the universal on call sheet, look for Team A of Client B for example, and the primary and secondary on call working at the time are displayed with their contact informtion. Not only does this save us a lot of time but it dramatically lowers the instances of calling the wrong resource.
-- Developed a contact center solution using Amazon Connect. When I joined the team had just started planning to take over the phone help line, so I jumped at the opportunity to work on it. We now offer both phone and chat support and are constantly meeting our SLA requirements in part due to the efficiency of this system.
+- In the first week that I joined the team, I compiled the 8+ documents used for on call scheduling into a single automatically updating excel sheet. Originally, we had to cross reference the on call schedule for each client and team combination, and then further search for that on call team members phone number in the contact information document. Now, we just look at the universal on call sheet, look for Team A of Client B for example, and the primary and secondary on call working at the time are displayed with their contact information. Not only does this save us a lot of time but it dramatically lowers the instances of calling the wrong resource.
+- Developed a contact center solution using Amazon Connect. When I joined, the team had just started planning to take over the phone help line, so I jumped at the opportunity to work on it. We now offer both phone and chat support and are constantly meeting our SLA requirements in part due to the efficiency of this system.
+
+### What I want you to takeaway:
+Both of the above examples are not part of my job description. I'm quick to identify problems and take the initiative to create solutions, and I'm eager to learn new technologies.
 
 ## Contact
 - Mark-moulton@live.ca
