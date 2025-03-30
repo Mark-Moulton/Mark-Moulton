@@ -67,7 +67,8 @@ I am incredibly proud of this project. In a one month window, I taught myself ho
 # Asteroyal
 <sub>[Repository](https://github.com/Mark-Moulton/Asteroyal)</sub>
 
-![asteroyal.webm](https://github.com/user-attachments/assets/2eb3f1a3-298b-4392-a7e3-8a6e521326ef)
+[asteroyal.webm](https://github.com/user-attachments/assets/2eb3f1a3-298b-4392-a7e3-8a6e521326ef)
+
 <sub> Music and SFX were created by myself. Visual assets courtesy of Screaming Brain Studios and realcreative </sub>
 
 ### Description:
