@@ -25,7 +25,7 @@ My career goal is to be a Game Developer.
 # Work Examples, Reflection, & Skills Summary
 ## Game Projects
 # Mega X Man Rogue
-<sub>[Repository](https://github.com/NPCsoft/MegaXManRogue) and [itch.io page](https://mmoulton.itch.io/mxmr)</sub>
+<sub>[Repository](https://github.com/Mark-Moulton/MegaXManRogue) and [itch.io page](https://mmoulton.itch.io/mxmr)</sub>
 
  ![mxmr](https://user-images.githubusercontent.com/8378246/169934740-2359c81a-5ad1-4102-aa1b-1d69206ecf82.gif)
 <sub> Note: Visual and Audio assets were taken from existing CAPCOM games and not representative of my artistic ability. </sub>
@@ -63,7 +63,7 @@ This is the perfect demonstration of the attitude I have towards learning new sk
 I am incredibly proud of this project. In a one month window, I taught myself how to use Unity and enough code to make something that was not only playable, but actually fun! There was obviously a lot of stumbling, but I learned so much from my mistakes, it was probably the best thing I’ve ever done, still, to this day.
 
 # NSCC Capstone Project
-<sub>[Repository](https://github.com/NPCsoft/KaijuCapstone)</sub>
+<sub>[Repository](https://github.com/Mark-Moulton/KaijuCapstone)</sub>
 
   ![capstonekaiju](https://user-images.githubusercontent.com/8378246/169935091-61c0dfd5-6d0d-4b97-84e2-f849b967b117.gif)
 
