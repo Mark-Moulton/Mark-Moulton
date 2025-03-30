@@ -90,7 +90,7 @@ I wanted to learn Godot, in part because open source is wonderful, and in part b
 -	Experimented with camera zoom, shake, and gametime speed to create a fun and visually striking danger mechanic
 -	Held meetings to discuss and demo progress, met deadlines
 ### The Good:
-The danger mechanic was very fun to work on, the result was satisfying and it was the most complex part of the project to implement so there was a lot to learn.  
+The danger mechanic was very fun to work on, especially the time dilation affecting the sound. The result was satisfying and it was the most complex part of the project to implement so there was a lot to learn.
 ### The Bad:
 Experimenting with Copilot was interesting. I feel like it could lead someone astray if they don't have a solid foundation already. It was mostly useful as a starting point to find the right function to read in the documentation, or providing a 3.x version solution that could be googled to find the 4.x equivalent. 
 ### The Ugly:
