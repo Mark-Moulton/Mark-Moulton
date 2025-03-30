@@ -3,6 +3,8 @@
 ## Quick Links
 - [Introduction](#introduction)
 - [Game Projects](#game-projects)
+  - [Most Proud](#mega-x-man-rogue)
+  - [Most Recent](#asteroyal)
 - [Other IT Work](#other-it-work)
 - [Contact](#contact)
 
@@ -60,7 +62,40 @@ This project gave me one of the most valuable lessons a developer can learn. Ver
 While the project was a success, the code was an absolute nightmare of spaghetti. This was at the start of my programming career, so while I did manage to hack it together to work, there are no best practices at play (and probably a lot of worst practices). If I were to redo it today, I would be able to cut the amount of code I wrote in half and be much more organized by using OOP principles.
 ### What I want you to takeaway:
 This is the perfect demonstration of the attitude I have towards learning new skills.
-I am incredibly proud of this project. In a one month window, I taught myself how to use Unity and enough code to make something that was not only playable, but actually fun! There was obviously a lot of stumbling, but I learned so much from my mistakes, it was probably the best thing I’ve ever done, still, to this day.
+I am incredibly proud of this project. In a one month window, I taught myself how to use Unity and enough code to make something that was not only playable, but actually fun! There was obviously a lot of stumbling, but I learned so much from my mistakes, it was probably the best thing I’ve ever done, still, to this day - or at least the one I'm most proud of.
+
+# Asteroyal
+<sub>[Repository](https://github.com/Mark-Moulton/Asteroyal)</sub>
+
+![asteroyal]([asteroyal.webm](https://github.com/user-attachments/assets/2eb3f1a3-298b-4392-a7e3-8a6e521326ef))
+<sub> Music and SFX were created by myself. Visual assets courtesy of Screaming Brain Studios and realcreative </sub>
+
+### Description:
+An Asteroids style game with a mechanic that scores points for being dangerously close to asteroids and surviving.
+
+### Scenario: 
+I wanted to learn Godot, in part because open source is wonderful, and in part because the Unity runtime fee controversy spooked me. I like using Asteroids as my template when learning a new engine or programming language, it's relatively simple and quick but there's just enough complexity to be crunchy.
+
+### Goals:
+-	Learn the workflow of the Godot engine
+-	Learn gdscript
+-	Experiment with copilot for coding
+-	Create estimates for new features and meet with friend weekly to hold each other accountable for our respective projects
+### What I did:
+- Avoided using C# to force myself to learn gdscript
+-	Coded basic asteroids clone functionality
+-	Created music using beepbox
+-	Created SFX using jfsxr
+-	Experimented with camera zoom, shake, and gametime speed to create a fun and visually striking danger mechanic
+-	Held meetings to discuss and demo progress, met deadlines
+### The Good:
+The danger mechanic was very fun to work on, the result was satisfying and it was the most complex part of the project to implement so there was a lot to learn.  
+### The Bad:
+Experimenting with Copilot was interesting. I feel like it could lead someone astray if they don't have a solid foundation already. It was mostly useful as a starting point to find the right function to read in the documentation, or providing a 3.x version solution that could be googled to find the 4.x equivalent. 
+### The Ugly:
+It can be frustrating learning new engines and lanugages, knowing that something you might be struggling with would be a simple task if you went back to what you already have experience with. To combat this I started meeting with a friend who was also learning Godot.
+### What I want you to takeaway:
+I'm constantly expanding my toolbox and experimenting with new technologies. Even when I'm happy with the tools I have I continue to research and learn different options.
 
 # NSCC Capstone Project
 <sub>[Repository](https://github.com/Mark-Moulton/KaijuCapstone)</sub>
