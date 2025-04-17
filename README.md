@@ -23,6 +23,7 @@ My career goal is to be a Game Developer.
   -	Interpersonal skills to deal with creative and production teams
   -	Able to keep on schedule and meet deadlines
   -	Knowledge of Game Engines and Programming Languages
+  -	Experience with AWS
  
 # Work Examples, Reflection, & Skills Summary
 ## Game Projects
@@ -138,7 +139,7 @@ This revelation is a great reason why self reflection is so important. Your ment
 # Service Operations Analyst with OnX Canada
 
 ### Description:
-I coordinate with multiple teams and clients to resolve any IT issues that come up from password resets to network outages.
+I coordinate with multiple teams and clients to resolve any IT issues that come up from password resets to network outages. I also maintain our contact center using AWS and Amazon Connect.
 
 ### My biggest contributions:
 - In the first week that I joined the team, I compiled the 8+ documents used for on call scheduling into a single automatically updating excel sheet. Originally, we had to cross reference the on call schedule for each client and team combination, and then further search for that on call team members phone number in the contact information document. Now, we just look at the universal on call sheet, look for Team A of Client B for example, and the primary and secondary on call working at the time are displayed with their contact information. Not only does this save us a lot of time but it dramatically lowers the instances of calling the wrong resource.
